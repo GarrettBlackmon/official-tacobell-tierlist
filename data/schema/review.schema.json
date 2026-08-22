@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "review.schema.json",
+  "title": "Tier list review",
+  "description": "The current verdict on one item. WHERE it ranks lives in data/ranking.json; past verdicts live in git history, not here.",
+  "type": "object",
+  "required": ["code", "slug", "date"],
+  "additionalProperties": false,
+  "properties": {
+    "code": { "type": "string", "pattern": "^[0-9A-Za-z]+$", "description": "Taco Bell product code (canonical ID, must exist in catalog.json)" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "URL-friendly name; must match the review's filename and its entry in ranking.json" },
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "When this verdict was last given" },
+    "notes": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  }
+}

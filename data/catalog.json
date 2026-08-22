@@ -1,0 +1,2575 @@
+{
+  "syncedAt": "2026-08-21",
+  "store": "039116",
+  "items": {
+    "2521": {
+      "code": "2521",
+      "slug": "spicy-ranch",
+      "name": "Spicy Ranch",
+      "calories": "200",
+      "price": 0.6,
+      "priceFormatted": "$0.60",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/spicy-ranch",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "4404": {
+      "code": "4404",
+      "slug": "pepper-jack-sauce",
+      "name": "Pepper Jack Sauce",
+      "calories": "200",
+      "price": 0.6,
+      "priceFormatted": "$0.60",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "addOn",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/addOn/pepper-jack-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "4406": {
+      "code": "4406",
+      "slug": "chipotle-bacon",
+      "name": "Chipotle Bacon",
+      "calories": "5",
+      "price": 0.99,
+      "priceFormatted": "$0.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "addOn",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/addOn/chipotle-bacon",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "21200": {
+      "code": "21200",
+      "slug": "supreme-taco-party-pack",
+      "name": "Supreme Taco Party Pack",
+      "calories": "190",
+      "price": 29.99,
+      "priceFormatted": "$29.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/supreme-taco-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "21201": {
+      "code": "21201",
+      "slug": "supreme-soft-taco-party-pack",
+      "name": "Supreme Soft Taco Party Pack",
+      "calories": "200",
+      "price": 29.99,
+      "priceFormatted": "$29.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/supreme-soft-taco-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "21210": {
+      "code": "21210",
+      "slug": "drinks-party-pack",
+      "name": "Drinks Party Pack",
+      "calories": "0-1120",
+      "price": 4,
+      "priceFormatted": "$4.00",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "online-exclusives",
+        "party-packs",
+        "drinks"
+      ],
+      "url": "/food/deals-and-combos/drinks-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22100": {
+      "code": "22100",
+      "slug": "crunchy-taco",
+      "name": "Crunchy Taco",
+      "calories": "170",
+      "price": 1.89,
+      "priceFormatted": "$1.89",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "best-sellers",
+        "tacos"
+      ],
+      "url": "/food/tacos/crunchy-taco",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22101": {
+      "code": "22101",
+      "slug": "crunchy-taco-supreme",
+      "name": "Crunchy Taco Supreme®",
+      "calories": "190",
+      "price": 2.89,
+      "priceFormatted": "$2.89",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "tacos"
+      ],
+      "url": "/food/tacos/crunchy-taco-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22110": {
+      "code": "22110",
+      "slug": "soft-taco",
+      "name": "Soft Taco",
+      "calories": "180",
+      "price": 1.89,
+      "priceFormatted": "$1.89",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "best-sellers",
+        "tacos"
+      ],
+      "url": "/food/tacos/soft-taco",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22111": {
+      "code": "22111",
+      "slug": "soft-taco-supreme",
+      "name": "Soft Taco Supreme®",
+      "calories": "200",
+      "price": 2.89,
+      "priceFormatted": "$2.89",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "tacos"
+      ],
+      "url": "/food/tacos/soft-taco-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22152": {
+      "code": "22152",
+      "slug": "cheesy-roll-up",
+      "name": "Cheesy Roll Up",
+      "calories": "170",
+      "price": 1.29,
+      "priceFormatted": "$1.29",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides",
+      "categories": [
+        "specialties",
+        "luxe-value-menu",
+        "vegetarian"
+      ],
+      "url": "/food/sides/cheesy-roll-up",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22167": {
+      "code": "22167",
+      "slug": "beefy-5-layer-burrito",
+      "name": "Beefy 5-Layer Burrito",
+      "calories": "490",
+      "price": 4.69,
+      "priceFormatted": "$4.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "best-sellers",
+        "burritos"
+      ],
+      "url": "/food/burritos/beefy-5-layer-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22169": {
+      "code": "22169",
+      "slug": "beefy-crunch-burrito",
+      "name": "Beefy Crunch Burrito",
+      "calories": "450",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "featured",
+        "burritos"
+      ],
+      "url": "/food/burritos/beefy-crunch-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22172": {
+      "code": "22172",
+      "slug": "nacho-cheese-doritos-locos-tacos",
+      "name": "Nacho Cheese Doritos® Locos Tacos",
+      "calories": "170",
+      "price": 2.89,
+      "priceFormatted": "$2.89",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "tacos"
+      ],
+      "url": "/food/tacos/nacho-cheese-doritos-locos-tacos",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22173": {
+      "code": "22173",
+      "slug": "nacho-cheese-doritos-locos-tacos-supreme",
+      "name": "Nacho Cheese Doritos® Locos Tacos Supreme®",
+      "calories": "190",
+      "price": 3.69,
+      "priceFormatted": "$3.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "tacos"
+      ],
+      "url": "/food/tacos/nacho-cheese-doritos-locos-tacos-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22187": {
+      "code": "22187",
+      "slug": "soft-taco-party-pack",
+      "name": "Soft Taco Party Pack",
+      "calories": "180",
+      "price": 20.99,
+      "priceFormatted": "$20.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/soft-taco-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22189": {
+      "code": "22189",
+      "slug": "taco-party-pack",
+      "name": "Taco Party Pack",
+      "calories": "170",
+      "price": 20.99,
+      "priceFormatted": "$20.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/taco-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22200": {
+      "code": "22200",
+      "slug": "bean-burrito",
+      "name": "Bean Burrito",
+      "calories": "360",
+      "price": 1.99,
+      "priceFormatted": "$1.99",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "burritos",
+      "categories": [
+        "burritos",
+        "vegetarian"
+      ],
+      "url": "/food/burritos/bean-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22201": {
+      "code": "22201",
+      "slug": "burrito-supreme",
+      "name": "Burrito Supreme®",
+      "calories": "390",
+      "price": 5.69,
+      "priceFormatted": "$5.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "burritos"
+      ],
+      "url": "/food/burritos/burrito-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22259": {
+      "code": "22259",
+      "slug": "spicy-potato-soft-taco",
+      "name": "Spicy Potato Soft Taco",
+      "calories": "240",
+      "price": 1.39,
+      "priceFormatted": "$1.39",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "luxe-value-menu",
+      "categories": [
+        "best-sellers",
+        "tacos",
+        "luxe-value-menu",
+        "vegetarian"
+      ],
+      "url": "/food/luxe-value-menu/spicy-potato-soft-taco",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22283": {
+      "code": "22283",
+      "slug": "cheesy-bean-and-rice-burrito",
+      "name": "Cheesy Bean and Rice Burrito",
+      "calories": "400",
+      "price": 1.49,
+      "priceFormatted": "$1.49",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "luxe-value-menu",
+      "categories": [
+        "best-sellers",
+        "burritos",
+        "luxe-value-menu",
+        "vegetarian"
+      ],
+      "url": "/food/luxe-value-menu/cheesy-bean-and-rice-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22303": {
+      "code": "22303",
+      "slug": "mexican-pizza",
+      "name": "Mexican Pizza",
+      "calories": "530",
+      "price": 5.49,
+      "priceFormatted": "$5.49",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "specialties"
+      ],
+      "url": "/food/specialties/mexican-pizza",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22310": {
+      "code": "22310",
+      "slug": "meximelt",
+      "name": "Meximelt®",
+      "calories": "250",
+      "price": 2.99,
+      "priceFormatted": "$2.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "featured",
+        "specialties"
+      ],
+      "url": "/food/specialties/meximelt",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22320": {
+      "code": "22320",
+      "slug": "cheese-quesadilla",
+      "name": "Cheese Quesadilla",
+      "calories": "440",
+      "price": 5.49,
+      "priceFormatted": "$5.49",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "quesadillas",
+      "categories": [
+        "quesadillas",
+        "vegetarian"
+      ],
+      "url": "/food/quesadillas/cheese-quesadilla",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22321": {
+      "code": "22321",
+      "slug": "chicken-quesadilla",
+      "name": "Chicken Quesadilla",
+      "calories": "490",
+      "price": 5.79,
+      "priceFormatted": "$5.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "quesadillas",
+      "categories": [
+        "best-sellers",
+        "quesadillas"
+      ],
+      "url": "/food/quesadillas/chicken-quesadilla",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22322": {
+      "code": "22322",
+      "slug": "steak-quesadilla",
+      "name": "Steak Quesadilla",
+      "calories": "500",
+      "price": 5.99,
+      "priceFormatted": "$5.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "quesadillas",
+      "categories": [
+        "quesadillas"
+      ],
+      "url": "/food/quesadillas/steak-quesadilla",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22362": {
+      "code": "22362",
+      "slug": "crunchwrap-supreme",
+      "name": "Crunchwrap Supreme®",
+      "calories": "530",
+      "price": 5.99,
+      "priceFormatted": "$5.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "best-sellers",
+        "specialties"
+      ],
+      "url": "/food/specialties/crunchwrap-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22393": {
+      "code": "22393",
+      "slug": "black-beans-and-rice",
+      "name": "Black Beans and Rice",
+      "calories": "160",
+      "price": 1.59,
+      "priceFormatted": "$1.59",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides-sweets",
+      "categories": [
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/sides-sweets/black-beans-and-rice",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22394": {
+      "code": "22394",
+      "slug": "black-beans",
+      "name": "Black Beans",
+      "calories": "50",
+      "price": 1.59,
+      "priceFormatted": "$1.59",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides-sweets",
+      "categories": [
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/sides-sweets/black-beans",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22500": {
+      "code": "22500",
+      "slug": "chips-and-nacho-cheese-sauce",
+      "name": "Chips and Nacho Cheese Sauce",
+      "calories": "220",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "nachos",
+      "categories": [
+        "nachos",
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/nachos/chips-and-nacho-cheese-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22502": {
+      "code": "22502",
+      "slug": "nachos-bellgrande",
+      "name": "Nachos BellGrande®",
+      "calories": "730",
+      "price": 6.39,
+      "priceFormatted": "$6.39",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "nachos",
+      "categories": [
+        "best-sellers",
+        "nachos"
+      ],
+      "url": "/food/nachos/nachos-bellgrande",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22510": {
+      "code": "22510",
+      "slug": "pintos-n-cheese",
+      "name": "Pintos N Cheese",
+      "calories": "170",
+      "price": 2.39,
+      "priceFormatted": "$2.39",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "specialties",
+      "categories": [
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/specialties/pintos-n-cheese",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22525": {
+      "code": "22525",
+      "slug": "cinnamon-twists",
+      "name": "Cinnamon Twists",
+      "calories": "170",
+      "price": 1.69,
+      "priceFormatted": "$1.69",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sweets",
+      "categories": [
+        "best-sellers",
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/sweets/cinnamon-twists",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22526": {
+      "code": "22526",
+      "slug": "caramel-apple-empanada",
+      "name": "Caramel Apple Empanada",
+      "calories": "290",
+      "price": 2.99,
+      "priceFormatted": "$2.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "sweets",
+      "categories": [
+        "featured",
+        "snacks-sweets"
+      ],
+      "url": "/food/sweets/caramel-apple-empanada",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22530": {
+      "code": "22530",
+      "slug": "cheesy-fiesta-potatoes",
+      "name": "Cheesy Fiesta Potatoes",
+      "calories": "240",
+      "price": 2.69,
+      "priceFormatted": "$2.69",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "specialties",
+      "categories": [
+        "luxe-value-menu",
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/specialties/cheesy-fiesta-potatoes",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22603": {
+      "code": "22603",
+      "slug": "3-crunchy-tacos-supreme-combo",
+      "name": "3 Crunchy Tacos Supreme® Combo",
+      "calories": "560-980",
+      "price": 9.59,
+      "priceFormatted": "$9.59",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/3-crunchy-tacos-supreme-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22604": {
+      "code": "22604",
+      "slug": "mexican-pizza-combo",
+      "name": "Mexican Pizza Combo",
+      "calories": "900-1320",
+      "price": 10.69,
+      "priceFormatted": "$10.69",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/mexican-pizza-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22607": {
+      "code": "22607",
+      "slug": "chicken-quesadilla-combo",
+      "name": "Chicken Quesadilla Combo",
+      "calories": "650-1070",
+      "price": 9.59,
+      "priceFormatted": "$9.59",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/chicken-quesadilla-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22608": {
+      "code": "22608",
+      "slug": "3-crunchy-or-soft-tacos-combo",
+      "name": "3 Crunchy Tacos Combo",
+      "calories": "500-920",
+      "price": 7.79,
+      "priceFormatted": "$7.79",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/3-crunchy-or-soft-tacos-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22609": {
+      "code": "22609",
+      "slug": "crunchwrap-supreme-combo",
+      "name": "Crunchwrap Supreme® Combo",
+      "calories": "700-1120",
+      "price": 10.19,
+      "priceFormatted": "$10.19",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/crunchwrap-supreme-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22637": {
+      "code": "22637",
+      "slug": "3-doritos-locos-tacos-combo",
+      "name": "3 Doritos® Locos Tacos Combo",
+      "calories": "500-920",
+      "price": 10.19,
+      "priceFormatted": "$10.19",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/3-doritos-locos-tacos-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22701": {
+      "code": "22701",
+      "slug": "3-doritos-locos-tacos-supreme-combo",
+      "name": "3 Doritos® Locos Tacos Supreme Combo",
+      "calories": "560-980",
+      "price": 11.29,
+      "priceFormatted": "$11.29",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/3-doritos-locos-tacos-supreme-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22722": {
+      "code": "22722",
+      "slug": "avocado-ranch-sauce",
+      "name": "Avocado Ranch Sauce",
+      "calories": "220",
+      "price": 0.6,
+      "priceFormatted": "$0.60",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/avocado-ranch-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22728": {
+      "code": "22728",
+      "slug": "chili",
+      "name": "Chili",
+      "calories": "60",
+      "price": 1,
+      "priceFormatted": "$1.00",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "sides",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides/chili",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22731": {
+      "code": "22731",
+      "slug": "creamy-jalapeno-sauce",
+      "name": "Creamy Jalapeño Sauce",
+      "calories": "180",
+      "price": 0.6,
+      "priceFormatted": "$0.60",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/creamy-jalapeno-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22732": {
+      "code": "22732",
+      "slug": "chipotle-sauce",
+      "name": "Chipotle Sauce",
+      "calories": "200",
+      "price": 0.6,
+      "priceFormatted": "$0.60",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/chipotle-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22738": {
+      "code": "22738",
+      "slug": "green-sauce",
+      "name": "Green Sauce",
+      "calories": "5",
+      "price": 0.5,
+      "priceFormatted": "$0.50",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/green-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22740": {
+      "code": "22740",
+      "slug": "guacamole",
+      "name": "Guacamole",
+      "calories": "70",
+      "price": 1,
+      "priceFormatted": "$1.00",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/guacamole",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22741": {
+      "code": "22741",
+      "slug": "jalapeo-peppers",
+      "name": "Jalapeño Peppers",
+      "calories": "0",
+      "price": 0.7,
+      "priceFormatted": "$0.70",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "sides",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides/jalapeo-peppers",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22746": {
+      "code": "22746",
+      "slug": "nacho-cheese-sauce",
+      "name": "Nacho Cheese Sauce",
+      "calories": "60",
+      "price": 0.9,
+      "priceFormatted": "$0.90",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/nacho-cheese-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22749": {
+      "code": "22749",
+      "slug": "mexican-pizza-sauce",
+      "name": "Mexican Pizza Sauce",
+      "calories": "15",
+      "price": 0.45,
+      "priceFormatted": "$0.45",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/mexican-pizza-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22750": {
+      "code": "22750",
+      "slug": "red-sauce",
+      "name": "Red Sauce",
+      "calories": "15",
+      "price": 0,
+      "priceFormatted": "$0.00",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/red-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22754": {
+      "code": "22754",
+      "slug": "reduced-fat-sour-cream",
+      "name": "Reduced-Fat Sour Cream",
+      "calories": "35",
+      "price": 0.9,
+      "priceFormatted": "$0.90",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sauces",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sauces/reduced-fat-sour-cream",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22759": {
+      "code": "22759",
+      "slug": "fire-sauce-packet",
+      "name": "Fire Sauce Packet",
+      "calories": "0",
+      "price": 0,
+      "priceFormatted": "$0.00",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides/fire-sauce-packet",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22760": {
+      "code": "22760",
+      "slug": "hot-sauce-packet",
+      "name": "Hot Sauce Packet",
+      "calories": "0",
+      "price": 0,
+      "priceFormatted": "$0.00",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides/hot-sauce-packet",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22763": {
+      "code": "22763",
+      "slug": "mild-sauce-packet",
+      "name": "Mild Sauce Packet",
+      "calories": "0",
+      "price": 0,
+      "priceFormatted": "$0.00",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides/mild-sauce-packet",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22765": {
+      "code": "22765",
+      "slug": "diablo-sauce-packet",
+      "name": "Diablo Sauce Packet",
+      "calories": "0",
+      "price": 0,
+      "priceFormatted": "$0.00",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides/diablo-sauce-packet",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22813": {
+      "code": "22813",
+      "slug": "cheesy-gordita-crunch",
+      "name": "Cheesy Gordita Crunch",
+      "calories": "480",
+      "price": 5.39,
+      "priceFormatted": "$5.39",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "best-sellers",
+        "tacos"
+      ],
+      "url": "/food/specialties/cheesy-gordita-crunch",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22850": {
+      "code": "22850",
+      "slug": "chalupa-supreme",
+      "name": "Chalupa Supreme",
+      "calories": "350",
+      "price": 5.19,
+      "priceFormatted": "$5.19",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "best-sellers",
+        "tacos"
+      ],
+      "url": "/food/specialties/chalupa-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "22963": {
+      "code": "22963",
+      "slug": "grilled-cheese-burrito",
+      "name": "Grilled Cheese Burrito",
+      "calories": "690",
+      "price": 5.39,
+      "priceFormatted": "$5.39",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "burritos"
+      ],
+      "url": "/food/burritos/grilled-cheese-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23153": {
+      "code": "23153",
+      "slug": "black-bean-chalupa",
+      "name": "Black Bean Chalupa Supreme",
+      "calories": "340",
+      "price": 4.99,
+      "priceFormatted": "$4.99",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "specialties",
+      "categories": [
+        "tacos",
+        "vegetarian"
+      ],
+      "url": "/food/specialties/black-bean-chalupa",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23218": {
+      "code": "23218",
+      "slug": "meal-for-2",
+      "name": "Meal for 2",
+      "calories": "180-530",
+      "price": 12.5,
+      "priceFormatted": "$12.50",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "online-exclusives",
+        "party-packs"
+      ],
+      "url": "/food/party-packs/meal-for-2",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23219": {
+      "code": "23219",
+      "slug": "veggie-meal-for-2",
+      "name": "Veggie Meal for 2",
+      "calories": "220-440",
+      "price": 12.5,
+      "priceFormatted": "$12.50",
+      "itemType": "ComboProduct",
+      "hasMeatless": true,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "online-exclusives",
+        "party-packs",
+        "vegetarian"
+      ],
+      "url": "/food/party-packs/veggie-meal-for-2",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23220": {
+      "code": "23220",
+      "slug": "meal-for-4",
+      "name": "Meal for 4",
+      "calories": "180-530",
+      "price": 20.83,
+      "priceFormatted": "$20.83",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "online-exclusives",
+        "party-packs"
+      ],
+      "url": "/food/party-packs/meal-for-4",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23226": {
+      "code": "23226",
+      "slug": "cheesy-double-beef-burrito",
+      "name": "Cheesy Double Beef Burrito",
+      "calories": "560",
+      "price": 2.99,
+      "priceFormatted": "$2.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "burritos",
+        "luxe-value-menu"
+      ],
+      "url": "/food/burritos/cheesy-double-beef-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23272": {
+      "code": "23272",
+      "slug": "cheesy-gordita-crunch-combo",
+      "name": "Cheesy Gordita Crunch Combo",
+      "calories": "820-1240",
+      "price": 9.99,
+      "priceFormatted": "$9.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "featured",
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/cheesy-gordita-crunch-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23290": {
+      "code": "23290",
+      "slug": "black-bean-grilled-cheese-burrito-black-beans",
+      "name": "Black Bean Grilled Cheese Burrito - Black Beans",
+      "calories": "680",
+      "price": 4.99,
+      "priceFormatted": "$4.99",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "burritos",
+      "categories": [
+        "burritos"
+      ],
+      "url": "/food/burritos/black-bean-grilled-cheese-burrito-black-beans",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23318": {
+      "code": "23318",
+      "slug": "chips-and-guacamole",
+      "name": "Chips and Guacamole",
+      "calories": "230",
+      "price": 2.99,
+      "priceFormatted": "$2.99",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "nachos",
+      "categories": [
+        "nachos",
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/nachos/chips-and-guacamole",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23326": {
+      "code": "23326",
+      "slug": "veggie-mexican-pizza",
+      "name": "Veggie Mexican Pizza",
+      "calories": "460",
+      "price": 5.19,
+      "priceFormatted": "$5.19",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "specialties",
+      "categories": [
+        "specialties",
+        "vegetarian"
+      ],
+      "url": "/food/specialties/veggie-mexican-pizza",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23470": {
+      "code": "23470",
+      "slug": "cantina-chicken-soft-taco",
+      "name": "Cantina Chicken Soft Taco",
+      "calories": "260",
+      "price": 3.19,
+      "priceFormatted": "$3.19",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "tacos"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-soft-taco",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23471": {
+      "code": "23471",
+      "slug": "cantina-chicken-crispy-taco",
+      "name": "Cantina Chicken Crispy Taco",
+      "calories": "320",
+      "price": 3.19,
+      "priceFormatted": "$3.19",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "tacos"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-crispy-taco",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23472": {
+      "code": "23472",
+      "slug": "cantina-chicken-burrito",
+      "name": "Cantina Chicken Burrito",
+      "calories": "570",
+      "price": 5.99,
+      "priceFormatted": "$5.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "burritos"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23473": {
+      "code": "23473",
+      "slug": "cantina-chicken-bowl",
+      "name": "Cantina Chicken Bowl",
+      "calories": "520",
+      "price": 8.29,
+      "priceFormatted": "$8.29",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "bowls"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-bowl",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23476": {
+      "code": "23476",
+      "slug": "cantina-sauce",
+      "name": "Avocado Verde Salsa Sauce Packet",
+      "calories": "50",
+      "price": 0.2,
+      "priceFormatted": "$0.20",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides-sweets",
+      "categories": [
+        "cantina-chicken-menu",
+        "snacks-sweets"
+      ],
+      "url": "/food/sides-sweets/cantina-sauce",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23478": {
+      "code": "23478",
+      "slug": "cantina-chicken-crispy-taco-combo",
+      "name": "Cantina Chicken Crispy Taco Combo",
+      "calories": "860-1280",
+      "price": 9.59,
+      "priceFormatted": "$9.59",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-crispy-taco-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23479": {
+      "code": "23479",
+      "slug": "cantina-chicken-burrito-combo",
+      "name": "Cantina Chicken Burrito Combo",
+      "calories": "960-1380",
+      "price": 11.19,
+      "priceFormatted": "$11.19",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-burrito-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23499": {
+      "code": "23499",
+      "slug": "3-cheese-chicken-flatbread-melt",
+      "name": "3 Cheese Chicken Flatbread Melt",
+      "calories": "320",
+      "price": 2.29,
+      "priceFormatted": "$2.29",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "quesadillas",
+      "categories": [
+        "specialties",
+        "luxe-value-menu"
+      ],
+      "url": "/food/quesadillas/3-cheese-chicken-flatbread-melt",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23551": {
+      "code": "23551",
+      "slug": "build-your-own-luxe-cravings-box",
+      "name": "Build Your Own Luxe Cravings Box",
+      "calories": "670-2050",
+      "price": 6.99,
+      "priceFormatted": "$6.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "best-sellers",
+        "online-exclusives",
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/build-your-own-luxe-cravings-box",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23578": {
+      "code": "23578",
+      "slug": "tajin-packet",
+      "name": "Tajín® Seasoning Packet",
+      "calories": "0",
+      "price": 0.5,
+      "priceFormatted": "$0.50",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sides-sweets",
+      "categories": [
+        "snacks-sweets"
+      ],
+      "url": "/food/sides-sweets/tajin-packet",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "23760": {
+      "code": "23760",
+      "slug": "2-chicken-chalupas-supreme-combo",
+      "name": "2 Chicken Chalupas Supreme Combo",
+      "calories": "830-1250",
+      "price": 12.79,
+      "priceFormatted": "$12.79",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/2-chicken-chalupas-supreme-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "24067": {
+      "code": "24067",
+      "slug": "doritos-cheesy-gordita-crunch",
+      "name": "Doritos® Cheesy Gordita Crunch - Nacho Cheese",
+      "calories": "480",
+      "price": 5.69,
+      "priceFormatted": "$5.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "tacos",
+      "categories": [
+        "tacos"
+      ],
+      "url": "/food/tacos/doritos-cheesy-gordita-crunch",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "24200": {
+      "code": "24200",
+      "slug": "naked-chicken-chalupa",
+      "name": "Naked Chicken Chalupa",
+      "calories": "430",
+      "price": 5.99,
+      "priceFormatted": "$5.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "featured",
+        "tacos"
+      ],
+      "url": "/food/specialties/naked-chicken-chalupa",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "25500": {
+      "code": "25500",
+      "slug": "avocado-ranch-chicken-stacker",
+      "name": "Avocado Ranch Chicken Stacker",
+      "calories": "350",
+      "price": 2.99,
+      "priceFormatted": "$2.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "specialties",
+        "luxe-value-menu"
+      ],
+      "url": "/food/specialties/avocado-ranch-chicken-stacker",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "25501": {
+      "code": "25501",
+      "slug": "beefy-potato-loaded-griller",
+      "name": "Beefy Potato Loaded Griller",
+      "calories": "480",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "burritos",
+        "luxe-value-menu"
+      ],
+      "url": "/food/specialties/beefy-potato-loaded-griller",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "25502": {
+      "code": "25502",
+      "slug": "mini-taco-salad",
+      "name": "Mini Taco Salad",
+      "calories": "280",
+      "price": 2.49,
+      "priceFormatted": "$2.49",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "specialties",
+        "luxe-value-menu"
+      ],
+      "url": "/food/specialties/mini-taco-salad",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "25509": {
+      "code": "25509",
+      "slug": "chips-and-nacho-supreme-dip",
+      "name": "Chips and Nacho Supreme Dip",
+      "calories": "360",
+      "price": 2.49,
+      "priceFormatted": "$2.49",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "nachos",
+        "luxe-value-menu"
+      ],
+      "url": "/food/deals-and-combos/chips-and-nacho-supreme-dip",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "26051": {
+      "code": "26051",
+      "slug": "black-bean-crunchwrap-supreme",
+      "name": "Black Bean Crunchwrap Supreme®",
+      "calories": "520",
+      "price": 5.59,
+      "priceFormatted": "$5.59",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "specialties",
+      "categories": [
+        "specialties",
+        "vegetarian"
+      ],
+      "url": "/food/specialties/black-bean-crunchwrap-supreme",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "26054": {
+      "code": "26054",
+      "slug": "variety-taco-party-pack",
+      "name": "Variety Taco Party Pack",
+      "calories": "170",
+      "price": 25.99,
+      "priceFormatted": "$25.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/variety-taco-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "26055": {
+      "code": "26055",
+      "slug": "supreme-variety-party-pack",
+      "name": "Supreme Variety Taco Party Pack",
+      "calories": "190",
+      "price": 32.99,
+      "priceFormatted": "$32.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/supreme-variety-party-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "27272": {
+      "code": "27272",
+      "slug": "classic-luxe-box",
+      "name": "Classic Luxe Box™",
+      "calories": "820-1100",
+      "price": 5,
+      "priceFormatted": "$5.00",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/classic-luxe-box",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "27276": {
+      "code": "27276",
+      "slug": "supreme-luxe-box",
+      "name": "Supreme Luxe Box™",
+      "calories": "1150-1430",
+      "price": 7,
+      "priceFormatted": "$7.00",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/supreme-luxe-box",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "28095": {
+      "code": "28095",
+      "slug": "nacho-fries",
+      "name": "Nacho Fries",
+      "calories": "350",
+      "price": 2.69,
+      "priceFormatted": "$2.69",
+      "itemType": "ComboProduct",
+      "hasMeatless": true,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "best-sellers",
+        "specialties",
+        "snacks-sweets"
+      ],
+      "url": "/food/deals-and-combos/nacho-fries",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "28183": {
+      "code": "28183",
+      "slug": "large-nacho-fries",
+      "name": "Large Nacho Fries",
+      "calories": "500",
+      "price": 3.69,
+      "priceFormatted": "$3.69",
+      "itemType": "ComboProduct",
+      "hasMeatless": true,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "best-sellers",
+        "specialties",
+        "snacks-sweets"
+      ],
+      "url": "/food/deals-and-combos/large-nacho-fries",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "28787": {
+      "code": "28787",
+      "slug": "melty-pepper-jack-steak-burrito",
+      "name": "Melty Pepper Jack Steak Burrito",
+      "calories": "440",
+      "price": 3,
+      "priceFormatted": "$3.00",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "featured",
+        "burritos",
+        "luxe-value-menu"
+      ],
+      "url": "/food/burritos/melty-pepper-jack-steak-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "28788": {
+      "code": "28788",
+      "slug": "fresca-pepper-jack-steak-burrito",
+      "name": "Fresca Pepper Jack Steak Burrito",
+      "calories": "500",
+      "price": 3,
+      "priceFormatted": "$3.00",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "burritos",
+      "categories": [
+        "featured",
+        "burritos",
+        "luxe-value-menu"
+      ],
+      "url": "/food/burritos/fresca-pepper-jack-steak-burrito",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "28973": {
+      "code": "28973",
+      "slug": "chicken-enchilada-nacho-fries",
+      "name": "Chicken Enchilada Nacho Fries",
+      "calories": "500",
+      "price": 5.49,
+      "priceFormatted": "$5.49",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "specialties",
+      "categories": [
+        "featured",
+        "specialties"
+      ],
+      "url": "/food/specialties/chicken-enchilada-nacho-fries",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "29132": {
+      "code": "29132",
+      "slug": "veggie-bowl",
+      "name": "Veggie Bowl",
+      "calories": "410",
+      "price": 7.99,
+      "priceFormatted": "$7.99",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "bowls",
+      "categories": [
+        "bowls",
+        "vegetarian"
+      ],
+      "url": "/food/bowls/veggie-bowl",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "29158": {
+      "code": "29158",
+      "slug": "cantina-chicken-rolled-quesadilla",
+      "name": "Cantina Chicken Rolled Quesadilla",
+      "calories": "650",
+      "price": 6.69,
+      "priceFormatted": "$6.69",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "featured",
+        "quesadillas"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-rolled-quesadilla",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "29159": {
+      "code": "29159",
+      "slug": "cantina-chicken-rolled-quesadilla-combo",
+      "name": "Cantina Chicken Rolled Quesadilla Combo",
+      "calories": "820-1240",
+      "price": 10.29,
+      "priceFormatted": "$10.29",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "cantina-chicken-menu",
+        "featured",
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/cantina-chicken-rolled-quesadilla-combo",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "29160": {
+      "code": "29160",
+      "slug": "tajin-taco",
+      "name": "Tajín® Taco",
+      "calories": "210",
+      "price": 2.89,
+      "priceFormatted": "$2.89",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "featured",
+        "tacos"
+      ],
+      "url": "/food/deals-and-combos/tajin-taco",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "29187": {
+      "code": "29187",
+      "slug": "tajin-gordita-crunch",
+      "name": "Tajín® Cheesy Gordita Crunch",
+      "calories": "460",
+      "price": 5.99,
+      "priceFormatted": "$5.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "featured",
+        "tacos"
+      ],
+      "url": "/food/deals-and-combos/tajin-gordita-crunch",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "29189": {
+      "code": "29189",
+      "slug": "discovery-luxe-box",
+      "name": "Discovery Luxe Box™",
+      "calories": "1220-1500",
+      "price": 9,
+      "priceFormatted": "$9.00",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "deals-and-combos",
+      "categories": [
+        "featured",
+        "boxes-and-combos"
+      ],
+      "url": "/food/deals-and-combos/discovery-luxe-box",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "30045": {
+      "code": "30045",
+      "slug": "cinnabon-delights-12-pack",
+      "name": "Cinnabon Delights® 12 Pack",
+      "calories": "1010",
+      "price": 6.99,
+      "priceFormatted": "$6.99",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sweets",
+      "categories": [
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/sweets/cinnabon-delights-12-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "30046": {
+      "code": "30046",
+      "slug": "cinnabon-delights-2-pack",
+      "name": "Cinnabon Delights® 2 Pack",
+      "calories": "170",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": true,
+      "primaryCategory": "sweets",
+      "categories": [
+        "snacks-sweets",
+        "vegetarian"
+      ],
+      "url": "/food/sweets/cinnabon-delights-2-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "60528": {
+      "code": "60528",
+      "slug": "cravings-pack",
+      "name": "Taco & Burrito Cravings Pack",
+      "calories": "170-490",
+      "price": 21.99,
+      "priceFormatted": "$21.99",
+      "itemType": "ComboProduct",
+      "hasMeatless": false,
+      "primaryCategory": "party-packs",
+      "categories": [
+        "party-packs"
+      ],
+      "url": "/food/party-packs/cravings-pack",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1002Main": {
+      "code": "1002Main",
+      "slug": "pepsi",
+      "name": "Pepsi®",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/pepsi",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1007Main": {
+      "code": "1007Main",
+      "slug": "diet-pepsi",
+      "name": "Diet Pepsi®",
+      "calories": "0",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/diet-pepsi",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1012Main": {
+      "code": "1012Main",
+      "slug": "mtn-dew",
+      "name": "MTN DEW®",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mtn-dew",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1017Main": {
+      "code": "1017Main",
+      "slug": "dr-pepper",
+      "name": "Dr Pepper®",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/dr-pepper",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1027Main": {
+      "code": "1027Main",
+      "slug": "mtn-dew-baja-blast",
+      "name": "MTN DEW® Baja Blast®",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mtn-dew-baja-blast",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1062Main": {
+      "code": "1062Main",
+      "slug": "mug-root-beer",
+      "name": "Mug® Root Beer",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mug-root-beer",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1077Main": {
+      "code": "1077Main",
+      "slug": "lipton-unsweetened-iced-tea",
+      "name": "Lipton® Unsweetened Iced Tea",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/lipton-unsweetened-iced-tea",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1099Main": {
+      "code": "1099Main",
+      "slug": "g2-gatorade-fruit-punch",
+      "name": "G2 Gatorade® Fruit Punch",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/g2-gatorade-fruit-punch",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1107Main": {
+      "code": "1107Main",
+      "slug": "pepsi-zero-sugar",
+      "name": "Pepsi® Zero Sugar",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/pepsi-zero-sugar",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1110Main": {
+      "code": "1110Main",
+      "slug": "mtn-dew-baja-blast-zero-sugar",
+      "name": "MTN DEW® Baja Blast™ Zero Sugar",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mtn-dew-baja-blast-zero-sugar",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1147Main": {
+      "code": "1147Main",
+      "slug": "mtn-dew-zero",
+      "name": "MTN DEW® Zero",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mtn-dew-zero",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1153Main": {
+      "code": "1153Main",
+      "slug": "starry",
+      "name": "Starry®",
+      "calories": "0",
+      "price": 2.69,
+      "priceFormatted": "$2.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/starry",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1202Main": {
+      "code": "1202Main",
+      "slug": "lipton-sweet-tea",
+      "name": "Lipton® Sweet Tea",
+      "calories": "0",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/lipton-sweet-tea",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1219Main": {
+      "code": "1219Main",
+      "slug": "brisk-mango-fiesta",
+      "name": "Brisk® Mango Fiesta",
+      "calories": "0",
+      "price": 2.59,
+      "priceFormatted": "$2.59",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/brisk-mango-fiesta",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1491Main": {
+      "code": "1491Main",
+      "slug": "mountain-dew-baja-blast-freeze",
+      "name": "MTN DEW® Baja Blast® Freeze",
+      "calories": "0",
+      "price": 3.89,
+      "priceFormatted": "$3.89",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mountain-dew-baja-blast-freeze",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "1966Main": {
+      "code": "1966Main",
+      "slug": "aquafina-bottled-water",
+      "name": "Aquafina® Bottled Water",
+      "calories": "0",
+      "price": 1.99,
+      "priceFormatted": "$1.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/aquafina-bottled-water",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "2077Main": {
+      "code": "2077Main",
+      "slug": "mountain-dew-baja-blast-dirty-soda-freeze",
+      "name": "MOUNTAIN DEW ® BAJA BLAST® dirty soda Freeze",
+      "calories": "0",
+      "price": 4.29,
+      "priceFormatted": "$4.29",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mountain-dew-baja-blast-dirty-soda-freeze",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "2426Main": {
+      "code": "2426Main",
+      "slug": "pineapple-freeze",
+      "name": "Pineapple Freeze",
+      "calories": "0",
+      "price": 3.99,
+      "priceFormatted": "$3.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/pineapple-freeze",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "2452Main": {
+      "code": "2452Main",
+      "slug": "tajin-pineapple-strawberry-freeze",
+      "name": "Tajín® Pineapple Strawberry Freeze",
+      "calories": "0",
+      "price": 3.99,
+      "priceFormatted": "$3.99",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/tajin-pineapple-strawberry-freeze",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3077Main": {
+      "code": "3077Main",
+      "slug": "tropicana-original-lemonade",
+      "name": "Tropicana® Original Lemonade",
+      "calories": "0",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/tropicana-original-lemonade",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3660Main": {
+      "code": "3660Main",
+      "slug": "tropical-punch-rockstar-refresca",
+      "name": "Tropical Punch Rockstar® Energy Refresca",
+      "calories": "0",
+      "price": 4.49,
+      "priceFormatted": "$4.49",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/tropical-punch-rockstar-refresca",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3704Main": {
+      "code": "3704Main",
+      "slug": "mountain-dew-baja-blast-dirty-soda",
+      "name": "MOUNTAIN DEW® BAJA BLAST® dirty soda",
+      "calories": "0",
+      "price": 3.09,
+      "priceFormatted": "$3.09",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mountain-dew-baja-blast-dirty-soda",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3707Main": {
+      "code": "3707Main",
+      "slug": "dirty-soda-with-mountain-dew-baja-blast-zero-sugar",
+      "name": "Dirty Soda with BAJA BLAST® Zero Sugar",
+      "calories": "0",
+      "price": 3.09,
+      "priceFormatted": "$3.09",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/dirty-soda-with-mountain-dew-baja-blast-zero-sugar",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3717Main": {
+      "code": "3717Main",
+      "slug": "strawberry-passionfruit-agua-refresca",
+      "name": "Strawberry Passionfruit Agua Refresca",
+      "calories": "0",
+      "price": 3.69,
+      "priceFormatted": "$3.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/strawberry-passionfruit-agua-refresca",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3718Main": {
+      "code": "3718Main",
+      "slug": "dragonfruit-berry-agua-refresca",
+      "name": "Dragonfruit Berry Agua Refresca",
+      "calories": "0",
+      "price": 3.69,
+      "priceFormatted": "$3.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/dragonfruit-berry-agua-refresca",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3719Main": {
+      "code": "3719Main",
+      "slug": "mango-peach-agua-refresca",
+      "name": "Mango Peach Agua Refresca",
+      "calories": "0",
+      "price": 3.69,
+      "priceFormatted": "$3.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mango-peach-agua-refresca",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3782Main": {
+      "code": "3782Main",
+      "slug": "mountain-dew-baja-midnight",
+      "name": "Mountain Dew Baja Midnight™",
+      "calories": "0",
+      "price": 2.69,
+      "priceFormatted": "$2.69",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "drinks"
+      ],
+      "url": "/food/drinks/mountain-dew-baja-midnight",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3786Main": {
+      "code": "3786Main",
+      "slug": "pepsi-dirty-soda",
+      "name": "PEPSI® dirty soda",
+      "calories": "0",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/pepsi-dirty-soda",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3789Main": {
+      "code": "3789Main",
+      "slug": "mountain-dew-baja-midnight-dirty-soda",
+      "name": "MOUNTAIN DEW BAJA MIDNIGHT™ dirty soda",
+      "calories": "0",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/mountain-dew-baja-midnight-dirty-soda",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3792Main": {
+      "code": "3792Main",
+      "slug": "tropicana-original-dirty-lemonade",
+      "name": "TROPICANA® Original dirty lemonade",
+      "calories": "0",
+      "price": 2.79,
+      "priceFormatted": "$2.79",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/tropicana-original-dirty-lemonade",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3820Main": {
+      "code": "3820Main",
+      "slug": "strawberry-tropics-energy",
+      "name": "Strawberry Tropics Energy",
+      "calories": "0",
+      "price": 4.49,
+      "priceFormatted": "$4.49",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/strawberry-tropics-energy",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3821Main": {
+      "code": "3821Main",
+      "slug": "pineapple-citrus-energy",
+      "name": "Pineapple Citrus Energy",
+      "calories": "0",
+      "price": 4.49,
+      "priceFormatted": "$4.49",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/pineapple-citrus-energy",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    },
+    "3822Main": {
+      "code": "3822Main",
+      "slug": "pineapple-citrus-energy-freeze",
+      "name": "Pineapple Citrus Energy Freeze ",
+      "calories": "0",
+      "price": 4.29,
+      "priceFormatted": "$4.29",
+      "itemType": "Product",
+      "hasMeatless": false,
+      "primaryCategory": "drinks",
+      "categories": [
+        "featured",
+        "drinks"
+      ],
+      "url": "/food/drinks/pineapple-citrus-energy-freeze",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21",
+      "discontinued": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "official-tacobell-tierlist",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "bun scripts/sync.ts",
+    "build": "bun scripts/build.ts",
+    "validate": "bun scripts/build.ts --check",
+    "new": "bun scripts/new.ts",
+    "dev": "bun scripts/build.ts && bun scripts/serve.ts",
+    "review": "bun scripts/review.ts"
+  }
+}

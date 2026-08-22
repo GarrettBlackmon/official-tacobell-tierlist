@@ -1,0 +1,10 @@
+{
+  "tiers": [
+    { "id": "S", "name": "Live Más", "description": "Transcendent. Order every single time." },
+    { "id": "A", "name": "Crave", "description": "Great. A reliable pillar of the order." },
+    { "id": "B", "name": "Solid", "description": "Good. Happy when it shows up in the bag." },
+    { "id": "C", "name": "Mid", "description": "Fine. Exists. Fills a taco-shaped hole." },
+    { "id": "D", "name": "Rough", "description": "Questionable decisions were made." },
+    { "id": "F", "name": "Why", "description": "A mistake I made so you don't have to." }
+  ]
+}

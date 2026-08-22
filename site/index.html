@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The "Official" Taco Bell Tier List</title>
+  <meta name="description" content="One superfan. Every menu item. Version controlled.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Nunito:ital,wght@0,400;0,700;0,800;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌮</text></svg>">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="confetti" aria-hidden="true">
+      <svg class="shape squiggle s1" viewBox="0 0 60 20"><path d="M2 14 Q9 2 16 10 T30 10 T44 10 T58 6" fill="none" stroke-width="4" stroke-linecap="round"/></svg>
+      <svg class="shape tri t1" viewBox="0 0 24 24"><path d="M12 3 L22 21 H2 Z"/></svg>
+      <svg class="shape ring r1" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="none" stroke-width="5"/></svg>
+      <svg class="shape plus p1" viewBox="0 0 24 24"><path d="M10 2 h4 v8 h8 v4 h-8 v8 h-4 v-8 H2 v-4 h8 Z"/></svg>
+      <svg class="shape zig z1" viewBox="0 0 60 24"><path d="M2 20 L14 6 L26 20 L38 6 L50 20 L58 10" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <svg class="shape tri t2" viewBox="0 0 24 24"><path d="M12 3 L22 21 H2 Z"/></svg>
+      <svg class="shape ring r2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="none" stroke-width="5"/></svg>
+      <svg class="shape squiggle s2" viewBox="0 0 60 20"><path d="M2 14 Q9 2 16 10 T30 10 T44 10 T58 6" fill="none" stroke-width="4" stroke-linecap="round"/></svg>
+      <svg class="shape dot d1" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/></svg>
+      <svg class="shape half h1" viewBox="0 0 24 12"><path d="M0 12 A12 12 0 0 1 24 12 Z"/></svg>
+    </div>
+
+    <div class="hero-inner">
+      <button class="bell-mark" type="button" aria-label="Ring the bell">
+        <svg viewBox="0 0 64 64" aria-hidden="true">
+          <circle class="bell-knob" cx="32" cy="5.5" r="3.5"/>
+          <path class="bell-body" d="M32 8 C23.5 8 19 15 18.5 24 C18.2 31 16.5 38 11.5 44 L52.5 44 C47.5 38 45.8 31 45.5 24 C45 15 40.5 8 32 8 Z"/>
+          <circle class="bell-clapper" cx="32" cy="51" r="4.5"/>
+          <rect class="bell-lip" x="9" y="43" width="46" height="6.5" rx="3.25"/>
+        </svg>
+      </button>
+      <p class="kicker">One superfan · every menu item · version controlled</p>
+      <h1>The <span class="official">&ldquo;Official&rdquo;</span><br>Taco&nbsp;Bell Tier&nbsp;List</h1>
+      <p class="stats" id="stats">&nbsp;</p>
+    </div>
+    <div class="zigzag" aria-hidden="true"></div>
+  </header>
+
+  <main>
+    <section id="board" class="board" aria-label="Tier list"></section>
+  </main>
+
+  <footer>
+    <p id="synced"></p>
+    <p class="disclaimer">Not affiliated with, endorsed by, or in any way official to Taco&nbsp;Bell or Yum!&nbsp;Brands. Just a fan with a <a href="https://github.com/GarrettBlackmon/official-tacobell-tierlist">git repo</a>. Menu data &amp; images come from tacobell.com.</p>
+  </footer>
+
+  <dialog id="modal">
+    <button class="close" aria-label="Close">&times;</button>
+    <div class="modal-body" id="modal-body"></div>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
