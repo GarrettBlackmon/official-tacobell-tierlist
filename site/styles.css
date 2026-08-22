@@ -17,7 +17,7 @@
   --body: "Nunito", system-ui, sans-serif;
 }
 
-* { box-sizing: border-box; margin: 0; padding: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
 
 /* backgrounds stop at the border's inner edge; otherwise the bg color
    bleeds through the border's antialiased outer edge on rotated elements
