@@ -1,8 +1,53 @@
 {
-  "S": [],
-  "A": [],
-  "B": [],
-  "C": [],
-  "D": [],
-  "F": []
+  "S": [
+    "mtn-dew-baja-blast",
+    "chalupa-supreme",
+    "mountain-dew-baja-blast-freeze",
+    "chips-and-nacho-cheese-sauce"
+  ],
+  "A": [
+    "cheesy-gordita-crunch",
+    "large-nacho-fries",
+    "pineapple-citrus-energy-freeze",
+    "drinks-party-pack",
+    "spicy-potato-soft-taco",
+    "nacho-cheese-doritos-locos-tacos",
+    "3-cheese-chicken-flatbread-melt",
+    "cheesy-fiesta-potatoes",
+    "crunchy-taco"
+  ],
+  "B": [
+    "chicken-quesadilla",
+    "tajin-gordita-crunch",
+    "melty-pepper-jack-steak-burrito",
+    "cantina-chicken-soft-taco",
+    "beefy-crunch-burrito",
+    "cinnabon-delights-2-pack",
+    "avocado-ranch-chicken-stacker",
+    "crunchwrap-supreme",
+    "soft-taco",
+    "cheesy-roll-up"
+  ],
+  "C": [
+    "cinnamon-twists",
+    "beefy-potato-loaded-griller",
+    "grilled-cheese-burrito",
+    "meximelt",
+    "naked-chicken-chalupa",
+    "cheesy-bean-and-rice-burrito"
+  ],
+  "D": [
+    "mexican-pizza",
+    "cantina-chicken-crispy-taco",
+    "beefy-5-layer-burrito",
+    "bean-burrito",
+    "cantina-chicken-burrito",
+    "burrito-supreme",
+    "tajin-packet"
+  ],
+  "F": [
+    "cantina-chicken-bowl",
+    "veggie-bowl",
+    "mountain-dew-baja-blast-dirty-soda"
+  ]
 }
