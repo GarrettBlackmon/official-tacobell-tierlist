@@ -84,7 +84,7 @@ function render() {
 
   const board = $("#board");
   board.innerHTML = "";
-  if (ADMIN) renderBacklog(board); // judgment queue first, board below
+  if (ADMIN) renderBacklog();
   for (const tier of DATA.tiers) {
     const items = DATA.rated.filter((r) => r.tier === tier.id);
     const row = document.createElement("div");
@@ -105,54 +105,40 @@ function render() {
   }
 }
 
-function renderBacklog(board) {
+function renderBacklog() {
   const reviewed = new Set(Object.keys(ADMIN.reviews));
   const backlog = Object.values(ADMIN.catalog.items)
     .filter((i) => !i.discontinued && !reviewed.has(i.slug))
     .sort((a, b) => a.primaryCategory.localeCompare(b.primaryCategory) || a.name.localeCompare(b.name));
 
-  const row = document.createElement("div");
-  row.className = "tier-row backlog";
-  row.innerHTML = `
-    <div class="tier-badge">
+  const pane = $("#backlog-pane");
+  pane.innerHTML = `
+    <div class="backlog-head">
       <span class="tier-letter">?</span>
       <span class="tier-name">Backlog · ${backlog.length}</span>
     </div>
-    <div class="tier-items" data-tier=""></div>`;
-  const holder = $(".tier-items", row);
+    <div class="tier-items backlog-items" data-tier=""></div>`;
+  const holder = $(".tier-items", pane);
   if (backlog.length === 0) {
     holder.innerHTML = `<span class="tier-empty">backlog cleared. Live Más achieved.</span>`;
   }
   for (const item of backlog) holder.appendChild(makeCard(item, { grayed: true }));
   wireDropZone(holder); // dropping a ranked card here un-rates it
-  board.appendChild(row);
 }
 
-// ── drag to rank ──
+// ── drag to rank (native HTML5 DnD; the backlog pane sits beside the
+//    board, so drags are short hops and native behavior is fine) ──
 
 let DRAG = null;
 const indicator = document.createElement("span");
 indicator.className = "drop-indicator";
-
-function cardsIn(holder) {
-  return [...holder.querySelectorAll(".item-card:not(.card-dragging)")];
-}
-
-function placeIndicator(holder, x, y) {
-  for (const card of cardsIn(holder)) {
-    const r = card.getBoundingClientRect();
-    if (y < r.top - 6) { holder.insertBefore(indicator, card); return; }
-    if (y <= r.bottom + 6 && x < r.left + r.width / 2) { holder.insertBefore(indicator, card); return; }
-  }
-  holder.appendChild(indicator);
-}
 
 function wireDropZone(holder) {
   holder.addEventListener("dragover", (e) => {
     if (!DRAG) return;
     e.preventDefault();
     e.dataTransfer.dropEffect = "move";
-    if (holder.dataset.tier === "") indicator.remove(); // backlog: no slot, whole zone
+    if (holder.dataset.tier === "") indicator.remove(); // backlog: whole zone
     else placeIndicator(holder, e.clientX, e.clientY);
     holder.classList.add("drop-hot");
   });
@@ -204,6 +190,19 @@ function wireDropZone(holder) {
       if (placed) openModal(placed); // straight into writing the notes
     }
   });
+}
+
+function cardsIn(holder) {
+  return [...holder.querySelectorAll(".item-card:not(.card-dragging)")];
+}
+
+function placeIndicator(holder, x, y) {
+  for (const card of cardsIn(holder)) {
+    const r = card.getBoundingClientRect();
+    if (y < r.top - 6) { holder.insertBefore(indicator, card); return; }
+    if (y <= r.bottom + 6 && x < r.left + r.width / 2) { holder.insertBefore(indicator, card); return; }
+  }
+  holder.appendChild(indicator);
 }
 
 async function refresh() {
@@ -260,7 +259,7 @@ function openModal(item) {
 
   if (ADMIN && rated) {
     const review = ADMIN.reviews[item.slug];
-    $(".btn-save", modal).addEventListener("click", async () => {
+    const save = async () => {
       const notes = $(".t-edit", modal).value.trim();
       if (notes !== (review.notes ?? "")) review.date = today(); // re-reviewed
       review.notes = notes;
@@ -268,7 +267,15 @@ function openModal(item) {
       ringBell();
       await refresh();
       modal.close();
+    };
+    $(".btn-save", modal).addEventListener("click", save);
+    $(".t-edit", modal).addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.shiftKey) {
+        e.preventDefault(); // Shift+Enter falls through for a newline
+        save();
+      }
     });
+    $(".t-edit", modal).focus();
   }
   if (!modal.open) modal.showModal();
 }
